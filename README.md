@@ -1,4 +1,4 @@
-# 📄 Resume Screening & Ranking System
+# Resume Screening & Ranking System
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=for-the-badge&logo=scikit-learn)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [How It Works](#how-it-works)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About the Project
+## About the Project
 
 Hiring teams receive hundreds of resumes for a single job role. Manually reviewing every resume is time-consuming, inconsistent, and error-prone.
 
@@ -45,7 +45,7 @@ This workflow closely mirrors modern HR-tech and Applicant Tracking Systems (ATS
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```text
 Resume Dataset (CSV)
@@ -102,7 +102,7 @@ Resume Dataset (CSV)
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 |----------|-------------|
@@ -119,7 +119,7 @@ Resume Dataset (CSV)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 resume-screening/
@@ -143,7 +143,7 @@ resume-screening/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |-----------|--------|
@@ -157,7 +157,7 @@ resume-screening/
 
 ---
 
-## 📦 Setup and Installation
+## Setup and Installation
 
 ### 1. Clone the Repository
 
@@ -194,7 +194,7 @@ resume-screening/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Option 1 — Streamlit Web App (Recommended)
 
@@ -218,7 +218,7 @@ Outputs rankings directly in the terminal and saves visualizations.
 
 ---
 
-## 🌐 Web App Usage
+## Web App Usage
 
 1. Upload a CSV file containing resumes
 2. Select the column that contains resume text
@@ -233,7 +233,7 @@ Outputs rankings directly in the terminal and saves visualizations.
 
 ---
 
-## 📐 How Candidates Are Scored
+## How Candidates Are Scored
 
 ### Step 1 — TF-IDF Vectorization
 
@@ -263,7 +263,7 @@ The similarity between each resume vector and the job description vector is comp
 
 ---
 
-## 🏅 Why Certain Candidates Rank Higher
+## Why Certain Candidates Rank Higher
 
 Candidates receive higher rankings when they:
 
@@ -275,7 +275,7 @@ Candidates receive higher rankings when they:
 
 ---
 
-## 🔍 Skill Gap Identification
+## Skill Gap Identification
 
 For every candidate:
 
@@ -298,7 +298,7 @@ This helps recruiters quickly identify strengths and weaknesses for each candida
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 ### Kaggle Resume Dataset
 
@@ -314,7 +314,7 @@ https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] PDF Resume Upload Support
 - [ ] Advanced Skill Extraction using spaCy NER
@@ -329,7 +329,7 @@ https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Deepak Rajesh**
 
@@ -337,7 +337,7 @@ Built as part of **Future Interns ML Task 3 — 2026**
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
