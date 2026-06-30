@@ -41,7 +41,7 @@ This project solves that problem by building a **Machine Learning-based Resume S
 - Highlights missing or required skills
 - Displays results in an interactive web application
 
-This workflow closely mirrors modern HR-tech and Applicant Tracking Systems (ATS) used in real-world recruitment platforms.
+This workflow has closely mirrors modern HR-tech and Applicant Tracking Systems (ATS) used in real-world recruitment platforms.
 
 ---
 
