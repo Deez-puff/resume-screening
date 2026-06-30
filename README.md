@@ -30,7 +30,7 @@
 
 ## About the Project
 
-Hiring teams receive hundreds of resumes for a single job role. Manually reviewing every resume is time-consuming, inconsistent, and error-prone.
+Hiring teams that receive hundreds of resumes for a single job role. Manually reviewing every resume is time-consuming, inconsistent, and error-prone.
 
 This project solves that problem by building a **Machine Learning-based Resume Screening & Ranking System** that:
 
